@@ -37,10 +37,8 @@
 
 ## Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavosouza123&show_icons=true&locale=en" alt="gustavosouza123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavosouza123&show_icons=true&locale=en&theme=dark" alt="gustavosouza123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavosouza123&" alt="gustavosouza123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavosouza123&theme=dark" alt="gustavosouza123" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosouza123&show_icons=true&locale=en&layout=compact" alt="gustavosouza123" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavosouza123" alt="gustavosouza123" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosouza123&show_icons=true&locale=en&layout=compact&theme=dark" alt="gustavosouza123" /></p>
