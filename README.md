@@ -1,6 +1,14 @@
 # Hi 👋, I'm Gustavo Souza
 
- I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages. Join me as I share my journey on technology. Let's connect and learn together! 🚀👨‍💻
+<p align="left">
+<a href="https://twitter.com/gustavosouza456" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gustavosouza456" /></a>
+<a href="https://linkedin.com/in/gustavo-souza-316003272" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-souza-316003272" /></a>
+<a href="https://dev.to/gustavosouza123" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="gustavosouza123" /></a>
+<a href="https://medium.com/@gustavoelia7" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@gustavoelia7" /></a>
+<a href="https://www.leetcode.com/gustavoelia7" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gustavoelia7" /></a>
+</p>
+
+I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages. Join me as I share my journey on technology. Let's connect and learn together! 🚀👨‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavosouza123&label=Profile%20views&color=0e75b6&style=flat" alt="gustavosouza123" /> </p>
 
@@ -10,16 +18,6 @@
 📝 I regularly write articles on [https://dev.to/gustavosouza123](https://dev.to/gustavosouza123)  
 📫 How to reach me: gustavoelia7@gmail.com  
 ⚡ Fun fact: **I can solve a rubik's cube in 15 secs**
-
-## Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/gustavosouza456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavosouza456" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gustavo-souza-316003272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-souza-316003272" height="30" width="40" /></a>
-<a href="https://dev.to/gustavosouza123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gustavosouza123" height="30" width="40" /></a>
-<a href="https://medium.com/@gustavoelia7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gustavoelia7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gustavoelia7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gustavoelia7" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools:
 
