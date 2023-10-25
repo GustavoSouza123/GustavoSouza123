@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavosouza123&label=Profile%20views&color=0e75b6&style=flat" alt="gustavosouza123" /> </p>
 
-🔭 I’m currently working on [my personal website](https://gustavo-souza.com/)
-🌱 I’m currently learning **PHP and JavaScript**
-👨‍💻 All of my projects are available at [https://gustavo-souza.com/](https://gustavo-souza.com/)
-📝 I regularly write articles on [https://dev.to/gustavosouza123](https://dev.to/gustavosouza123)
-📫 How to reach me: gustavoelia7@gmail.com
-⚡ Fun fact: **I can solve a rubik's cube in 15 secs**
+<div>🔭 I’m currently working on [my personal website](https://gustavo-souza.com/)</div>
+<div>🌱 I’m currently learning **PHP and JavaScript**</div>
+<div>👨‍💻 All of my projects are available at [https://gustavo-souza.com/](https://gustavo-souza.com/)</div>
+<div>📝 I regularly write articles on [https://dev.to/gustavosouza123](https://dev.to/gustavosouza123)</div>
+<div>📫 How to reach me: gustavoelia7@gmail.com</div>
+<div>⚡ Fun fact: **I can solve a rubik's cube in 15 secs**</div>
 
 ## Connect with me:
 
