@@ -1,12 +1,10 @@
 # Hi 👋, I'm Gustavo Souza
 
-<p align="left">
 <a href="https://twitter.com/gustavosouza456" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gustavosouza456" /></a>
 <a href="https://linkedin.com/in/gustavo-souza-316003272" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-souza-316003272" /></a>
 <a href="https://dev.to/gustavosouza123" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="gustavosouza123" /></a>
 <a href="https://medium.com/@gustavoelia7" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@gustavoelia7" /></a>
 <a href="https://www.leetcode.com/gustavoelia7" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gustavoelia7" /></a>
-</p>
 
 I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages. Join me as I share my journey on technology. Let's connect and learn together! 🚀👨‍💻
 
