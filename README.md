@@ -1,12 +1,14 @@
 # Hi 👋, I'm Gustavo Souza
 
-<a href="https://twitter.com/gustavosouza456" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gustavosouza456" /></a>
-<a href="https://linkedin.com/in/gustavo-souza-316003272" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-souza-316003272" /></a>
-<a href="https://dev.to/gustavosouza123" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="gustavosouza123" /></a>
-<a href="https://medium.com/@gustavoelia7" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@gustavoelia7" /></a>
-<a href="https://www.leetcode.com/gustavoelia7" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gustavoelia7" /></a>
+<p align="left">
+<a href="https://twitter.com/gustavosouza456" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gustavosouza456" /></a>
+<a href="https://linkedin.com/in/gustavo-souza-316003272" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-souza-316003272" /></a>
+<a href="https://dev.to/gustavosouza123" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="gustavosouza123" /></a>
+<a href="https://medium.com/@gustavoelia7" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@gustavoelia7" /></a>
+<a href="https://www.leetcode.com/gustavoelia7" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gustavoelia7" /></a>
+</p>
 
-I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages 🚀👨‍💻🇧🇷
+I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages. Join me as I share my journey on technology. Let's connect and learn together! 🚀👨‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavosouza123&label=Profile%20views&color=0e75b6&style=flat" alt="gustavosouza123" /> </p>
 
@@ -29,13 +31,12 @@ I'm a self-taught web developer and tech enthusiast with a deep passion for both
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
 ## Stats:
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavosouza123&show_icons=true&locale=en&theme=dark" alt="gustavosouza123" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosouza123&show_icons=true&locale=en&layout=compact&theme=dark" alt="gustavosouza123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavosouza123&show_icons=true&locale=en&theme=dark" alt="gustavosouza123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavosouza123&theme=dark" alt="gustavosouza123" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosouza123&show_icons=true&locale=en&layout=compact&theme=dark" alt="gustavosouza123" /></p>
