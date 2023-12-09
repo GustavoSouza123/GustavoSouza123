@@ -1,10 +1,10 @@
 # Hi 👋, I'm Gustavo Souza
 
 <p align="left">
+<a href="mailto:gustavoelia7@gmail.com?subject=Subject&body=Message" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gustavoelia7g@mail.com" /></a>
 <a href="https://twitter.com/gustavosouza456" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gustavosouza456" /></a>
 <a href="https://linkedin.com/in/gustavo-souza-316003272" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-souza-316003272" /></a>
 <a href="https://dev.to/gustavosouza123" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="gustavosouza123" /></a>
-<a href="https://medium.com/@gustavoelia7" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@gustavoelia7" /></a>
 <a href="https://www.leetcode.com/gustavoelia7" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gustavoelia7" /></a>
 </p>
 
