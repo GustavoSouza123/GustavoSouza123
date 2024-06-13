@@ -12,14 +12,13 @@ I'm a self-taught web developer and tech enthusiast with a deep passion for both
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavosouza123&label=Profile%20views&color=0e75b6&style=flat" alt="gustavosouza123" /> </p>
 
-🔭 I’m currently working on [my personal website](https://gustavo-souza.com/)  
+🔭 I’m currently working on [side projects](https://gustavo-souza.com/projects)  
 🌱 I’m currently learning **React and Node.js**  
 👨‍💻 All of my projects are available at [https://gustavo-souza.com/](https://gustavo-souza.com/)  
-📝 I regularly write articles on [https://dev.to/gustavosouza123](https://dev.to/gustavosouza123)  
 📫 How to reach me: gustavoelia7@gmail.com  
 ⚡ Fun fact: **I can solve a rubik's cube in 15 secs**
 
-## Languages and Tools:
+## Technologies and Tools:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,8 +33,10 @@ I'm a self-taught web developer and tech enthusiast with a deep passion for both
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
