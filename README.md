@@ -8,7 +8,7 @@
 <a href="https://www.leetcode.com/gustavoelia7" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gustavoelia7" /></a>
 </p>
 
-I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages. Join me as I share my journey on technology. Let's connect and learn together! 🚀👨‍💻
+I'm a self-taught web developer and tech enthusiast with a deep passion for both human and programming languages 👨‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavosouza123&label=Profile%20views&color=0e75b6&style=flat" alt="gustavosouza123" /> </p>
 
